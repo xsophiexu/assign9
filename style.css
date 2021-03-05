@@ -13,6 +13,7 @@ p { text-align: justify; }
   width: 100vw; height: 147.857vw;
   overflow: hidden;
 }
+.letters { position: relative; }
 
 #black {
   position: absolute;
